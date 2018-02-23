@@ -1,6 +1,2 @@
 # demo
-Demo repo for manager's meeting
-
-New line
-
-Another new line
+Demo repo for manager's meeting 
